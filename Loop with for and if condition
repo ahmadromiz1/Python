@@ -1,9 +1,0 @@
-#Ahmad ROMIZ kelipat 3 front kelipatan 5 back
-for N in range(1,51):
-    if(N % 3 == 0):
-        print("FRONTEND")
-        if(N < 50):print(",")
-    elif(N % 5 == 0):
-        print("BACKEND")
-        if(N < 50):print(",")
-    else: print(N , ",")
