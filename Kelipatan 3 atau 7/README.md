@@ -6,4 +6,4 @@ Dengan cara yang sama, berapakah nilai dari penjumlahan tersebut
 jika bilangan aslinya dibawah 2021?
 
 ### kondisi: kelipatan 3 atau 7 dan dibawah 2021
-### kelipatan 3 atau 7 -> habis di bagi 3 atau 7
+### kelipatan 3 atau 7 -> habis di bagi 3 atau 7 --> [modulus](https://www.w3schools.com/python/python_operators.asp) 0
