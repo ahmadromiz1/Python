@@ -1,4 +1,4 @@
-# ertanyaan
+# Pertanyaan
 Jika kita mengumpulkan bilangan asli dibawah 17 yang merupakan
 kelipatan 3 atau 7, kita mendapatkan angka 3, 6, 7, 9, 12, 14; yang
 ketika dijumlahkan 3 + 6 + 7 + 9 + 12 + 14 = 51.
