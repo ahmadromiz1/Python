@@ -1,3 +1,3 @@
 # Python
 resorce python langguange
-Kumpulan Soal dan Jawaban untuk mengasah logika pemrograman.
+\nKumpulan Soal dan Jawaban untuk mengasah logika pemrograman.
